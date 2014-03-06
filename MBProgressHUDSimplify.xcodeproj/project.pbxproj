@@ -60,16 +60,16 @@
 		4BE3BF4A18C8CCBA00A37C7F /* MBProgressHUDSimplifyTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "MBProgressHUDSimplifyTests-Info.plist"; sourceTree = "<group>"; };
 		4BE3BF4C18C8CCBA00A37C7F /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		4BE3BF4E18C8CCBA00A37C7F /* MBProgressHUDSimplifyTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUDSimplifyTests.m; sourceTree = "<group>"; };
-		4BE3BF5918C8CD4E00A37C7F /* MBProgressHUD+Simplify.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "MBProgressHUD+Simplify.h"; sourceTree = "<group>"; };
-		4BE3BF5A18C8CD4E00A37C7F /* MBProgressHUD+Simplify.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "MBProgressHUD+Simplify.m"; sourceTree = "<group>"; };
-		4BE3BF5B18C8CD4E00A37C7F /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MBProgressHUD.h; sourceTree = "<group>"; };
-		4BE3BF5C18C8CD4E00A37C7F /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MBProgressHUD.m; sourceTree = "<group>"; };
-		4BE3BF5F18C8CDBB00A37C7F /* UIViewController+MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "UIViewController+MBProgressHUD.h"; sourceTree = "<group>"; };
-		4BE3BF6018C8CDBB00A37C7F /* UIViewController+MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "UIViewController+MBProgressHUD.m"; sourceTree = "<group>"; };
-		4BE3BF6218C8D34000A37C7F /* MB-Checkmark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MB-Checkmark.png"; sourceTree = "<group>"; };
-		4BE3BF6318C8D34000A37C7F /* MB-Checkmark@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MB-Checkmark@2x.png"; sourceTree = "<group>"; };
-		4BE3BF6418C8D34000A37C7F /* MB-Error.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MB-Error.png"; sourceTree = "<group>"; };
-		4BE3BF6518C8D34000A37C7F /* MB-Error@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "MB-Error@2x.png"; sourceTree = "<group>"; };
+		4BE3BF5918C8CD4E00A37C7F /* MBProgressHUD+Simplify.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "MBProgressHUD+Simplify.h"; path = "MBProgressHUD/MBProgressHUD+Simplify.h"; sourceTree = "<group>"; };
+		4BE3BF5A18C8CD4E00A37C7F /* MBProgressHUD+Simplify.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "MBProgressHUD+Simplify.m"; path = "MBProgressHUD/MBProgressHUD+Simplify.m"; sourceTree = "<group>"; };
+		4BE3BF5B18C8CD4E00A37C7F /* MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = MBProgressHUD.h; path = MBProgressHUD/MBProgressHUD.h; sourceTree = "<group>"; };
+		4BE3BF5C18C8CD4E00A37C7F /* MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = MBProgressHUD.m; path = MBProgressHUD/MBProgressHUD.m; sourceTree = "<group>"; };
+		4BE3BF5F18C8CDBB00A37C7F /* UIViewController+MBProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIViewController+MBProgressHUD.h"; path = "MBProgressHUD/UIViewController+MBProgressHUD.h"; sourceTree = "<group>"; };
+		4BE3BF6018C8CDBB00A37C7F /* UIViewController+MBProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIViewController+MBProgressHUD.m"; path = "MBProgressHUD/UIViewController+MBProgressHUD.m"; sourceTree = "<group>"; };
+		4BE3BF6218C8D34000A37C7F /* MB-Checkmark.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "MB-Checkmark.png"; path = "MBProgressHUD/MB-Checkmark.png"; sourceTree = "<group>"; };
+		4BE3BF6318C8D34000A37C7F /* MB-Checkmark@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "MB-Checkmark@2x.png"; path = "MBProgressHUD/MB-Checkmark@2x.png"; sourceTree = "<group>"; };
+		4BE3BF6418C8D34000A37C7F /* MB-Error.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "MB-Error.png"; path = "MBProgressHUD/MB-Error.png"; sourceTree = "<group>"; };
+		4BE3BF6518C8D34000A37C7F /* MB-Error@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "MB-Error@2x.png"; path = "MBProgressHUD/MB-Error@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,7 +100,6 @@
 			isa = PBXGroup;
 			children = (
 				4BE3BF2918C8CCBA00A37C7F /* MBProgressHUDSimplify */,
-				4BE3BF5818C8CD4E00A37C7F /* MBProgressHUD */,
 				4BE3BF4818C8CCBA00A37C7F /* MBProgressHUDSimplifyTests */,
 				4BE3BF2218C8CCBA00A37C7F /* Frameworks */,
 				4BE3BF2118C8CCBA00A37C7F /* Products */,
@@ -135,6 +134,12 @@
 				4BE3BF3518C8CCBA00A37C7F /* Main.storyboard */,
 				4BE3BF3818C8CCBA00A37C7F /* ViewController.h */,
 				4BE3BF3918C8CCBA00A37C7F /* ViewController.m */,
+				4BE3BF5B18C8CD4E00A37C7F /* MBProgressHUD.h */,
+				4BE3BF5C18C8CD4E00A37C7F /* MBProgressHUD.m */,
+				4BE3BF5918C8CD4E00A37C7F /* MBProgressHUD+Simplify.h */,
+				4BE3BF5A18C8CD4E00A37C7F /* MBProgressHUD+Simplify.m */,
+				4BE3BF5F18C8CDBB00A37C7F /* UIViewController+MBProgressHUD.h */,
+				4BE3BF6018C8CDBB00A37C7F /* UIViewController+MBProgressHUD.m */,
 				4BE3BF3B18C8CCBA00A37C7F /* Images.xcassets */,
 				4BE3BF2A18C8CCBA00A37C7F /* Supporting Files */,
 			);
@@ -144,6 +149,10 @@
 		4BE3BF2A18C8CCBA00A37C7F /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				4BE3BF6218C8D34000A37C7F /* MB-Checkmark.png */,
+				4BE3BF6318C8D34000A37C7F /* MB-Checkmark@2x.png */,
+				4BE3BF6418C8D34000A37C7F /* MB-Error.png */,
+				4BE3BF6518C8D34000A37C7F /* MB-Error@2x.png */,
 				4BE3BF2B18C8CCBA00A37C7F /* MBProgressHUDSimplify-Info.plist */,
 				4BE3BF2C18C8CCBA00A37C7F /* InfoPlist.strings */,
 				4BE3BF2F18C8CCBA00A37C7F /* main.m */,
@@ -168,24 +177,6 @@
 				4BE3BF4B18C8CCBA00A37C7F /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
-			sourceTree = "<group>";
-		};
-		4BE3BF5818C8CD4E00A37C7F /* MBProgressHUD */ = {
-			isa = PBXGroup;
-			children = (
-				4BE3BF5B18C8CD4E00A37C7F /* MBProgressHUD.h */,
-				4BE3BF5C18C8CD4E00A37C7F /* MBProgressHUD.m */,
-				4BE3BF5918C8CD4E00A37C7F /* MBProgressHUD+Simplify.h */,
-				4BE3BF5A18C8CD4E00A37C7F /* MBProgressHUD+Simplify.m */,
-				4BE3BF5F18C8CDBB00A37C7F /* UIViewController+MBProgressHUD.h */,
-				4BE3BF6018C8CDBB00A37C7F /* UIViewController+MBProgressHUD.m */,
-				4BE3BF6218C8D34000A37C7F /* MB-Checkmark.png */,
-				4BE3BF6318C8D34000A37C7F /* MB-Checkmark@2x.png */,
-				4BE3BF6418C8D34000A37C7F /* MB-Error.png */,
-				4BE3BF6518C8D34000A37C7F /* MB-Error@2x.png */,
-			);
-			name = MBProgressHUD;
-			path = MBProgressHUDSimplify/MBProgressHUD;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
